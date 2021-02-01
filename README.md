@@ -1,7 +1,9 @@
 # struy-site
 
 > 一个简单易用的导航
-![](http://www.struy.top/img/20210129164317.png)
+
+![](./perview.png)
+
 ## Build Setup
 
 ``` bash

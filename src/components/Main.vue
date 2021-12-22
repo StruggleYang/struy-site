@@ -57,7 +57,7 @@
             </el-col>
         </el-row>-->
         <el-card class="box-card" shadow="never" >
-            <a class="footer-text" target="_blank" href="http://git66.com">Copyright © {{new Date().getFullYear()}} struy</a>
+            <a class="footer-text" target="_blank" href="http://struy.cn">Copyright © {{new Date().getFullYear()}} struy</a>
         </el-card>
     </el-main>
 </template>
